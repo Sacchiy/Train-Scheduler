@@ -1,0 +1,19 @@
+body{
+    color: rgb(0, 99, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-display: bolder;
+};
+
+img{
+    margin:10px;
+};
+
+#train-schedule-table{
+border:1px solid black;
+width: 100%;
+column-width: 50px;
+};
+
+#add-train{
+    background-color: rgb(255, 252, 203);
+};
